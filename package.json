@@ -12,7 +12,7 @@
     "src"
   ],
   "scripts": {
-    "build": "rollup -c --environment entry:gltf && rollup -c --environment entry:obj && rollup -c --environment entry:stl && rollup -c --environment entry:three"
+    "build": "rollup -c --environment entry:gltf && rollup -c --environment entry:obj && rollup -c --environment entry:stl && rollup -c --environment entry:three && rollup -c --environment entry:wrl"
   },
   "keywords": [
     "model",
